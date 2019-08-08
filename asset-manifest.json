@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/KhangNguyen3000.github.io/static/css/main.3c34c5d7.chunk.css",
-    "main.js": "/KhangNguyen3000.github.io/static/js/main.346f9387.chunk.js",
-    "main.js.map": "/KhangNguyen3000.github.io/static/js/main.346f9387.chunk.js.map",
+    "main.css": "/KhangNguyen3000.github.io/static/css/main.6265d4bf.chunk.css",
+    "main.js": "/KhangNguyen3000.github.io/static/js/main.e20145e5.chunk.js",
+    "main.js.map": "/KhangNguyen3000.github.io/static/js/main.e20145e5.chunk.js.map",
     "runtime~main.js": "/KhangNguyen3000.github.io/static/js/runtime~main.f7f0b2b1.js",
     "runtime~main.js.map": "/KhangNguyen3000.github.io/static/js/runtime~main.f7f0b2b1.js.map",
-    "static/js/2.e732b70d.chunk.js": "/KhangNguyen3000.github.io/static/js/2.e732b70d.chunk.js",
-    "static/js/2.e732b70d.chunk.js.map": "/KhangNguyen3000.github.io/static/js/2.e732b70d.chunk.js.map",
+    "static/js/2.ef1a4f9b.chunk.js": "/KhangNguyen3000.github.io/static/js/2.ef1a4f9b.chunk.js",
+    "static/js/2.ef1a4f9b.chunk.js.map": "/KhangNguyen3000.github.io/static/js/2.ef1a4f9b.chunk.js.map",
     "index.html": "/KhangNguyen3000.github.io/index.html",
-    "precache-manifest.3bd663c630b3fa22eb917d728e5432df.js": "/KhangNguyen3000.github.io/precache-manifest.3bd663c630b3fa22eb917d728e5432df.js",
+    "precache-manifest.e5dc8d5f98be648f7109d28f1b467826.js": "/KhangNguyen3000.github.io/precache-manifest.e5dc8d5f98be648f7109d28f1b467826.js",
     "service-worker.js": "/KhangNguyen3000.github.io/service-worker.js",
-    "static/css/main.3c34c5d7.chunk.css.map": "/KhangNguyen3000.github.io/static/css/main.3c34c5d7.chunk.css.map",
+    "static/css/main.6265d4bf.chunk.css.map": "/KhangNguyen3000.github.io/static/css/main.6265d4bf.chunk.css.map",
     "static/media/404.jpg": "/KhangNguyen3000.github.io/static/media/404.e8f8fc02.jpg",
     "static/media/Circle.jpg": "/KhangNguyen3000.github.io/static/media/Circle.3de146f0.jpg",
     "static/media/style.min.css": "/KhangNguyen3000.github.io/static/media/IndexTop.63cbdddc.jpg",
     "static/media/Snake.jpg": "/KhangNguyen3000.github.io/static/media/Snake.288d3a29.jpg",
-    "static/media/student.pdf": "/KhangNguyen3000.github.io/static/media/student.4b049a79.pdf"
+    "static/media/student1.png": "/KhangNguyen3000.github.io/static/media/student1.eb3d35f8.png",
+    "static/media/student2.png": "/KhangNguyen3000.github.io/static/media/student2.d123b344.png",
+    "static/media/student3.jpg": "/KhangNguyen3000.github.io/static/media/student3.2a4428d2.jpg"
   }
 }
