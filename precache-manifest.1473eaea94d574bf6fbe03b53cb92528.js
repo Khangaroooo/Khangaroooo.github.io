@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc1e6c306f224addc6e6e920b86893e9",
+    "revision": "f3764574552ecc02f018f1df109687c0",
     "url": "/KhangNguyen3000.github.io/index.html"
   },
   {
-    "revision": "54cc117fb3e2ba96c8c9",
+    "revision": "e364a2432de4872f0f83",
     "url": "/KhangNguyen3000.github.io/static/css/main.d9dfde46.chunk.css"
   },
   {
-    "revision": "67bd7d35f15cf1073248",
-    "url": "/KhangNguyen3000.github.io/static/js/2.362695a9.chunk.js"
+    "revision": "2db74283ebf5e6c5bd57",
+    "url": "/KhangNguyen3000.github.io/static/js/2.89d5746b.chunk.js"
   },
   {
-    "revision": "54cc117fb3e2ba96c8c9",
-    "url": "/KhangNguyen3000.github.io/static/js/main.bbe11584.chunk.js"
+    "revision": "e364a2432de4872f0f83",
+    "url": "/KhangNguyen3000.github.io/static/js/main.97d72283.chunk.js"
   },
   {
     "revision": "17ab143b7df7c7a3d827",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3de146f0d0e4f5d75bd71fa2db73234e",
     "url": "/KhangNguyen3000.github.io/static/media/Circle.3de146f0.jpg"
+  },
+  {
+    "revision": "b7885ce16d99c602bdb5435e723dff17",
+    "url": "/KhangNguyen3000.github.io/static/media/G12th.b7885ce1.PNG"
   },
   {
     "revision": "adb215456c81147344bc75b275ebf155",
@@ -44,6 +48,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KhangNguyen3000.github.io/static/media/Linkedin.9887205c.jpg"
   },
   {
+    "revision": "48837d2b01bd8adff8964d09fa192e8f",
+    "url": "/KhangNguyen3000.github.io/static/media/Pop.48837d2b.PNG"
+  },
+  {
     "revision": "288d3a294a14628f3e6283fcc11375de",
     "url": "/KhangNguyen3000.github.io/static/media/Snake.288d3a29.jpg"
   },
@@ -58,5 +66,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2a4428d2007852291befd689bd7516f3",
     "url": "/KhangNguyen3000.github.io/static/media/Student3.2a4428d2.jpg"
+  },
+  {
+    "revision": "451ad744fd19fb7bee1a4141fa61be0d",
+    "url": "/KhangNguyen3000.github.io/static/media/TPJ.451ad744.PNG"
   }
 ]);
