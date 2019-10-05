@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7a3d7afe6fe4288c81fff6dff86a353",
+    "revision": "72ee312fbc0b647ca9fa0daebe61494d",
     "url": "/KhangNguyen3000.github.io/index.html"
   },
   {
-    "revision": "30840378cdf6a9ca577e",
+    "revision": "dddfaf837ff16b6b897a",
     "url": "/KhangNguyen3000.github.io/static/css/main.c0b7dd76.chunk.css"
   },
   {
-    "revision": "5bb6b84377ee86198eb6",
-    "url": "/KhangNguyen3000.github.io/static/js/2.bb4c854f.chunk.js"
+    "revision": "510e236c825d1d78d30c",
+    "url": "/KhangNguyen3000.github.io/static/js/2.2597c606.chunk.js"
   },
   {
-    "revision": "30840378cdf6a9ca577e",
-    "url": "/KhangNguyen3000.github.io/static/js/main.c7f2ca96.chunk.js"
+    "revision": "dddfaf837ff16b6b897a",
+    "url": "/KhangNguyen3000.github.io/static/js/main.7c4fbbfe.chunk.js"
   },
   {
     "revision": "17ab143b7df7c7a3d827",
@@ -88,6 +88,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KhangNguyen3000.github.io/static/media/Pop.d4ab336c.PNG"
   },
   {
+    "revision": "1c3754b0400331b45685cf5fbbe00718",
+    "url": "/KhangNguyen3000.github.io/static/media/Professional.1c3754b0.jpg"
+  },
+  {
     "revision": "ae936cdf374a093f4f5c475a406c5391",
     "url": "/KhangNguyen3000.github.io/static/media/SEG2505.ae936cdf.PNG"
   },
@@ -100,16 +104,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KhangNguyen3000.github.io/static/media/Snake.288d3a29.jpg"
   },
   {
-    "revision": "eb3d35f87124d54ae73849d0e381d968",
-    "url": "/KhangNguyen3000.github.io/static/media/Student1.eb3d35f8.png"
+    "revision": "9b606d0dbdc4a27f031cfa141b145c1f",
+    "url": "/KhangNguyen3000.github.io/static/media/Student1.9b606d0d.jpg"
   },
   {
-    "revision": "d123b3447c0a9a8c46e061cd25b80c9c",
-    "url": "/KhangNguyen3000.github.io/static/media/Student2.d123b344.png"
+    "revision": "311139c9c5d890e807b60cb24c27bc9e",
+    "url": "/KhangNguyen3000.github.io/static/media/Student2.311139c9.jpg"
   },
   {
-    "revision": "2a4428d2007852291befd689bd7516f3",
-    "url": "/KhangNguyen3000.github.io/static/media/Student3.2a4428d2.jpg"
+    "revision": "2737d08b9f57f1821ea3ae40f6663b29",
+    "url": "/KhangNguyen3000.github.io/static/media/Student3.2737d08b.jpg"
   },
   {
     "revision": "451ad744fd19fb7bee1a4141fa61be0d",

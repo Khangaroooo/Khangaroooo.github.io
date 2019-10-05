@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KhangNguyen3000.github.io/static/css/main.c0b7dd76.chunk.css",
-    "main.js": "/KhangNguyen3000.github.io/static/js/main.c7f2ca96.chunk.js",
-    "main.js.map": "/KhangNguyen3000.github.io/static/js/main.c7f2ca96.chunk.js.map",
+    "main.js": "/KhangNguyen3000.github.io/static/js/main.7c4fbbfe.chunk.js",
+    "main.js.map": "/KhangNguyen3000.github.io/static/js/main.7c4fbbfe.chunk.js.map",
     "runtime~main.js": "/KhangNguyen3000.github.io/static/js/runtime~main.f7f0b2b1.js",
     "runtime~main.js.map": "/KhangNguyen3000.github.io/static/js/runtime~main.f7f0b2b1.js.map",
-    "static/js/2.bb4c854f.chunk.js": "/KhangNguyen3000.github.io/static/js/2.bb4c854f.chunk.js",
-    "static/js/2.bb4c854f.chunk.js.map": "/KhangNguyen3000.github.io/static/js/2.bb4c854f.chunk.js.map",
+    "static/js/2.2597c606.chunk.js": "/KhangNguyen3000.github.io/static/js/2.2597c606.chunk.js",
+    "static/js/2.2597c606.chunk.js.map": "/KhangNguyen3000.github.io/static/js/2.2597c606.chunk.js.map",
     "index.html": "/KhangNguyen3000.github.io/index.html",
-    "precache-manifest.ed4569100f07e4bb0d6596e1132ad290.js": "/KhangNguyen3000.github.io/precache-manifest.ed4569100f07e4bb0d6596e1132ad290.js",
+    "precache-manifest.da97f11cbcdc87934fff587fa2f9df65.js": "/KhangNguyen3000.github.io/precache-manifest.da97f11cbcdc87934fff587fa2f9df65.js",
     "service-worker.js": "/KhangNguyen3000.github.io/service-worker.js",
     "static/css/main.c0b7dd76.chunk.css.map": "/KhangNguyen3000.github.io/static/css/main.c0b7dd76.chunk.css.map",
     "static/media/2Keys.png": "/KhangNguyen3000.github.io/static/media/2Keys.36b233ee.png",
@@ -28,12 +28,13 @@
     "static/media/NRCan.jpg": "/KhangNguyen3000.github.io/static/media/NRCan.2d723c23.jpg",
     "static/media/Nokia.jpg": "/KhangNguyen3000.github.io/static/media/Nokia.c314d522.jpg",
     "static/media/Pop.PNG": "/KhangNguyen3000.github.io/static/media/Pop.d4ab336c.PNG",
+    "static/media/Professional.jpg": "/KhangNguyen3000.github.io/static/media/Professional.1c3754b0.jpg",
     "static/media/SEG2505.PNG": "/KhangNguyen3000.github.io/static/media/SEG2505.ae936cdf.PNG",
     "static/media/SEG3503.PNG": "/KhangNguyen3000.github.io/static/media/SEG3503.fb8f684f.PNG",
     "static/media/Snake.jpg": "/KhangNguyen3000.github.io/static/media/Snake.288d3a29.jpg",
-    "static/media/Student1.png": "/KhangNguyen3000.github.io/static/media/Student1.eb3d35f8.png",
-    "static/media/Student2.png": "/KhangNguyen3000.github.io/static/media/Student2.d123b344.png",
-    "static/media/Student3.jpg": "/KhangNguyen3000.github.io/static/media/Student3.2a4428d2.jpg",
+    "static/media/Student1.jpg": "/KhangNguyen3000.github.io/static/media/Student1.9b606d0d.jpg",
+    "static/media/Student2.jpg": "/KhangNguyen3000.github.io/static/media/Student2.311139c9.jpg",
+    "static/media/Student3.jpg": "/KhangNguyen3000.github.io/static/media/Student3.2737d08b.jpg",
     "static/media/TPJ.PNG": "/KhangNguyen3000.github.io/static/media/TPJ.451ad744.PNG"
   }
 }
