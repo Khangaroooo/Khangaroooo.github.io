@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02fadc5724617eb51b2805c4663b4ade",
+    "revision": "f77f12a7699612e28c7be69085e73e68",
     "url": "/KhangNguyen3000.github.io/index.html"
   },
   {
-    "revision": "68c8d427bc24cb1e8f82",
+    "revision": "041d38152339248f1ba2",
     "url": "/KhangNguyen3000.github.io/static/css/main.c0b7dd76.chunk.css"
   },
   {
-    "revision": "0f95e8e6361e0b694510",
-    "url": "/KhangNguyen3000.github.io/static/js/2.666d7117.chunk.js"
+    "revision": "b6b46419c4a568d6339a",
+    "url": "/KhangNguyen3000.github.io/static/js/2.c6306a09.chunk.js"
   },
   {
-    "revision": "68c8d427bc24cb1e8f82",
-    "url": "/KhangNguyen3000.github.io/static/js/main.767d41c4.chunk.js"
+    "revision": "041d38152339248f1ba2",
+    "url": "/KhangNguyen3000.github.io/static/js/main.3fa43660.chunk.js"
   },
   {
     "revision": "17ab143b7df7c7a3d827",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3d8e0c91f729082ea990024182de9f6b",
     "url": "/KhangNguyen3000.github.io/static/media/Instagram.3d8e0c91.png"
+  },
+  {
+    "revision": "b2f383cc23079c3d1748bef7aa702d44",
+    "url": "/KhangNguyen3000.github.io/static/media/Lifeguard.b2f383cc.png"
   },
   {
     "revision": "9887205cf401f61d353aa71a2294fa11",
