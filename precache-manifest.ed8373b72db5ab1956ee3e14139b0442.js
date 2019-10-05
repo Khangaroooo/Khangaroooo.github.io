@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2932a4b360f34167fc2b08cdd1543cc",
+    "revision": "c54f3801ac7c68f28f73408e189887de",
     "url": "/KhangNguyen3000.github.io/index.html"
   },
   {
-    "revision": "ca2d7cccde5c1368484a",
+    "revision": "122be64e04ba332a33bd",
     "url": "/KhangNguyen3000.github.io/static/css/main.c0b7dd76.chunk.css"
   },
   {
-    "revision": "31ad2815c766d0727ca8",
-    "url": "/KhangNguyen3000.github.io/static/js/2.e6dbe7f4.chunk.js"
+    "revision": "08d7c336d882ce914569",
+    "url": "/KhangNguyen3000.github.io/static/js/2.0442e4e6.chunk.js"
   },
   {
-    "revision": "ca2d7cccde5c1368484a",
-    "url": "/KhangNguyen3000.github.io/static/js/main.14ee431b.chunk.js"
+    "revision": "122be64e04ba332a33bd",
+    "url": "/KhangNguyen3000.github.io/static/js/main.331a6c14.chunk.js"
   },
   {
     "revision": "17ab143b7df7c7a3d827",
