@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KhangNguyen3000.github.io/static/css/main.b9b64fdf.chunk.css",
-    "main.js": "/KhangNguyen3000.github.io/static/js/main.d3e12262.chunk.js",
-    "main.js.map": "/KhangNguyen3000.github.io/static/js/main.d3e12262.chunk.js.map",
+    "main.js": "/KhangNguyen3000.github.io/static/js/main.9ecbccc7.chunk.js",
+    "main.js.map": "/KhangNguyen3000.github.io/static/js/main.9ecbccc7.chunk.js.map",
     "runtime~main.js": "/KhangNguyen3000.github.io/static/js/runtime~main.f7f0b2b1.js",
     "runtime~main.js.map": "/KhangNguyen3000.github.io/static/js/runtime~main.f7f0b2b1.js.map",
-    "static/js/2.a187ef26.chunk.js": "/KhangNguyen3000.github.io/static/js/2.a187ef26.chunk.js",
-    "static/js/2.a187ef26.chunk.js.map": "/KhangNguyen3000.github.io/static/js/2.a187ef26.chunk.js.map",
+    "static/js/2.70b1ad60.chunk.js": "/KhangNguyen3000.github.io/static/js/2.70b1ad60.chunk.js",
+    "static/js/2.70b1ad60.chunk.js.map": "/KhangNguyen3000.github.io/static/js/2.70b1ad60.chunk.js.map",
     "index.html": "/KhangNguyen3000.github.io/index.html",
-    "precache-manifest.6e9059471af2ad4bcdc088e6e968c181.js": "/KhangNguyen3000.github.io/precache-manifest.6e9059471af2ad4bcdc088e6e968c181.js",
+    "precache-manifest.7c4abd880bedf8895573a9afdaac7622.js": "/KhangNguyen3000.github.io/precache-manifest.7c4abd880bedf8895573a9afdaac7622.js",
     "service-worker.js": "/KhangNguyen3000.github.io/service-worker.js",
     "static/css/main.b9b64fdf.chunk.css.map": "/KhangNguyen3000.github.io/static/css/main.b9b64fdf.chunk.css.map",
     "static/media/2Keys.png": "/KhangNguyen3000.github.io/static/media/2Keys.36b233ee.png",
@@ -17,6 +17,7 @@
     "static/media/CSI2110.PNG": "/KhangNguyen3000.github.io/static/media/CSI2110.455451ad.PNG",
     "static/media/CSI3531.PNG": "/KhangNguyen3000.github.io/static/media/CSI3531.ccc0fb83.PNG",
     "static/media/Circle.jpg": "/KhangNguyen3000.github.io/static/media/Circle.9ae35461.jpg",
+    "static/media/Coop.pdf": "/KhangNguyen3000.github.io/static/media/Coop.5c2f4b39.pdf",
     "static/media/G12th.PNG": "/KhangNguyen3000.github.io/static/media/G12th.b7885ce1.PNG",
     "static/media/Github.png": "/KhangNguyen3000.github.io/static/media/Github.adb21545.png",
     "static/media/ITI1120.PNG": "/KhangNguyen3000.github.io/static/media/ITI1120.bdbd8612.PNG",
@@ -28,13 +29,10 @@
     "static/media/NRCan.jpg": "/KhangNguyen3000.github.io/static/media/NRCan.2d723c23.jpg",
     "static/media/Nokia.jpg": "/KhangNguyen3000.github.io/static/media/Nokia.c314d522.jpg",
     "static/media/Pop.PNG": "/KhangNguyen3000.github.io/static/media/Pop.d4ab336c.PNG",
-    "static/media/Professional.jpg": "/KhangNguyen3000.github.io/static/media/Professional.1c3754b0.jpg",
+    "static/media/Resume.pdf": "/KhangNguyen3000.github.io/static/media/Resume.84d87d51.pdf",
     "static/media/SEG2505.PNG": "/KhangNguyen3000.github.io/static/media/SEG2505.ae936cdf.PNG",
     "static/media/SEG3503.PNG": "/KhangNguyen3000.github.io/static/media/SEG3503.fb8f684f.PNG",
     "static/media/Snake.jpg": "/KhangNguyen3000.github.io/static/media/Snake.288d3a29.jpg",
-    "static/media/Student1.jpg": "/KhangNguyen3000.github.io/static/media/Student1.9b606d0d.jpg",
-    "static/media/Student2.jpg": "/KhangNguyen3000.github.io/static/media/Student2.311139c9.jpg",
-    "static/media/Student3.jpg": "/KhangNguyen3000.github.io/static/media/Student3.2737d08b.jpg",
     "static/media/TPJ.PNG": "/KhangNguyen3000.github.io/static/media/TPJ.451ad744.PNG"
   }
 }

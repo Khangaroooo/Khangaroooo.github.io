@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "929f9fc5e4adf0b466b9b96c263e1b3f",
+    "revision": "ada8c1eca25931577a0bed1ec9a77d1e",
     "url": "/KhangNguyen3000.github.io/index.html"
   },
   {
-    "revision": "f0a5720727676c033e6f",
+    "revision": "b166cb36890bf1ef87d1",
     "url": "/KhangNguyen3000.github.io/static/css/main.b9b64fdf.chunk.css"
   },
   {
-    "revision": "59ce9218c20709bcfdad",
-    "url": "/KhangNguyen3000.github.io/static/js/2.a187ef26.chunk.js"
+    "revision": "e098c9da14ed04a53ecc",
+    "url": "/KhangNguyen3000.github.io/static/js/2.70b1ad60.chunk.js"
   },
   {
-    "revision": "f0a5720727676c033e6f",
-    "url": "/KhangNguyen3000.github.io/static/js/main.d3e12262.chunk.js"
+    "revision": "b166cb36890bf1ef87d1",
+    "url": "/KhangNguyen3000.github.io/static/js/main.9ecbccc7.chunk.js"
   },
   {
     "revision": "17ab143b7df7c7a3d827",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9ae35461d26b618e24b6acbcfa759b78",
     "url": "/KhangNguyen3000.github.io/static/media/Circle.9ae35461.jpg"
+  },
+  {
+    "revision": "5c2f4b3986f8333206a519cbac573d71",
+    "url": "/KhangNguyen3000.github.io/static/media/Coop.5c2f4b39.pdf"
   },
   {
     "revision": "b7885ce16d99c602bdb5435e723dff17",
@@ -88,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KhangNguyen3000.github.io/static/media/Pop.d4ab336c.PNG"
   },
   {
-    "revision": "1c3754b0400331b45685cf5fbbe00718",
-    "url": "/KhangNguyen3000.github.io/static/media/Professional.1c3754b0.jpg"
+    "revision": "84d87d51006b3edb5534a89108617661",
+    "url": "/KhangNguyen3000.github.io/static/media/Resume.84d87d51.pdf"
   },
   {
     "revision": "ae936cdf374a093f4f5c475a406c5391",
@@ -102,18 +106,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "288d3a294a14628f3e6283fcc11375de",
     "url": "/KhangNguyen3000.github.io/static/media/Snake.288d3a29.jpg"
-  },
-  {
-    "revision": "9b606d0dbdc4a27f031cfa141b145c1f",
-    "url": "/KhangNguyen3000.github.io/static/media/Student1.9b606d0d.jpg"
-  },
-  {
-    "revision": "311139c9c5d890e807b60cb24c27bc9e",
-    "url": "/KhangNguyen3000.github.io/static/media/Student2.311139c9.jpg"
-  },
-  {
-    "revision": "2737d08b9f57f1821ea3ae40f6663b29",
-    "url": "/KhangNguyen3000.github.io/static/media/Student3.2737d08b.jpg"
   },
   {
     "revision": "451ad744fd19fb7bee1a4141fa61be0d",
