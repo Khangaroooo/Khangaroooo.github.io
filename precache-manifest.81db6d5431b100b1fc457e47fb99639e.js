@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42357de9b660f5c54c2ba5bf18b64281",
+    "revision": "d294e1b1ae7160baba82474b43ff4b57",
     "url": "/KhangNguyen3000.github.io/index.html"
   },
   {
-    "revision": "f1441e23d53f181a3271",
+    "revision": "985d557bb00bd00e8c15",
     "url": "/KhangNguyen3000.github.io/static/css/main.b9b64fdf.chunk.css"
   },
   {
-    "revision": "65297081e3e2ec6c0a47",
-    "url": "/KhangNguyen3000.github.io/static/js/2.65bd43ce.chunk.js"
+    "revision": "a4e9805a4ed6641cd880",
+    "url": "/KhangNguyen3000.github.io/static/js/2.c69f68e7.chunk.js"
   },
   {
-    "revision": "f1441e23d53f181a3271",
-    "url": "/KhangNguyen3000.github.io/static/js/main.2c4eb9c1.chunk.js"
+    "revision": "985d557bb00bd00e8c15",
+    "url": "/KhangNguyen3000.github.io/static/js/main.d38609a9.chunk.js"
   },
   {
     "revision": "17ab143b7df7c7a3d827",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8f8fc02faef4cda6007ea0bd0efe987",
     "url": "/KhangNguyen3000.github.io/static/media/404.e8f8fc02.jpg"
+  },
+  {
+    "revision": "fa6075c834b2929ca2bf99ba8fb252aa",
+    "url": "/KhangNguyen3000.github.io/static/media/CAD.fa6075c8.png"
   },
   {
     "revision": "2b2dd9964c85ad872b687a04b755b0c1",
